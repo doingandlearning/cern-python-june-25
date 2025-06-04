@@ -21,7 +21,7 @@ list_of_records = [
     {"name": "Kevin", "home": "Belfast"},
     {"name": "Michal", "home": "Krakow"},
     {"name": "Aymeric", "home": "Peru"},
-    {"name": "Dimitriv", "home": "Belgaria"}
+    {"name": "Dimitar", "home": "Bulgaria"}
 ]
 
 list_of_records.sort(key=lambda record: record["home"])
