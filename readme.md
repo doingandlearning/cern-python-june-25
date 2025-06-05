@@ -1,5 +1,8 @@
 # CERN - Introduction to Python for Programmers
 
+Kevin Cunningham
+kevin@kevincunningham.co.uk
+
 ## Aim:
 
 The aim of this course is to allow scientists, engineers and others who have programming experience become confident in reading, writing and working with code in Python.
